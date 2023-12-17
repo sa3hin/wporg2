@@ -1,6 +1,6 @@
 {
     "name": "wporg/wporg-repo-tools",
-    "version": "dev-build",
+    "version": "dev-trunk",
     "description": "PHP Package Test",
     "type": "library",
     "license": "MIT",
