@@ -1,0 +1,12 @@
+{
+    "name": "wporg/wporg-repo-tools",
+    "version": "dev-build",
+    "description": "PHP Package Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sa3hin"
+        }
+    ]
+}
